@@ -17,6 +17,7 @@ Follow me on the socials
 ## 🖥⌨ My most used languages 
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derroh&layout=compact&theme=tokyonight)](https://github.com/derroh/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=derroh&show_icons=true&count_private=true&theme=dark" alt="my Github Stats"/>
 <br>
 <br>
 ## 🖥⚡ My streak
