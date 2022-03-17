@@ -15,9 +15,10 @@ Follow me on the socials
 <a href="https://www.youtube.com/channel/UCjCme_sMoekaolOlNNvNilg" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=flat-square&logo=Youtube&logoColor=white" alt="Youtube"></a>
 
 ## 🖥⌨ My most used languages 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derroh&layout=compact&theme=tokyonight)](https://github.com/derroh/github-readme-stats)
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=derroh&show_icons=true&count_private=true&theme=dark" alt="my Github Stats"/>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=derroh&show_icons=true&count_private=true&theme=dark" width="350" height="150">      </a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derroh&layout=compact&theme=dark" width="350" height="150"></a>
+</p>
 <br>
 <br>
 ## 🖥⚡ My streak
