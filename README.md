@@ -19,8 +19,6 @@ Follow me on the socials
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derroh&layout=compact&theme=dark" width="350" height="150"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=derroh&show_icons=true&count_private=true&theme=dark" width="350" height="150"></a>
 </p>
-<br>
-<br>
 
 ## 🖥⚡ My streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=derroh&theme=tokyonight" alt="mystreak"/>
