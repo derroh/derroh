@@ -1,7 +1,8 @@
 ### Hi there 👋, I'm Derrick!
 
-I have 5 years of experience working as a .NET developer and as a consultant for Microsoft Dynamics Business Central.
----
+
+I have 5 years of experience working as a .NET developer and as a consultant for Microsoft Dynamics Business Central. socials
+
 Follow me on the socials
 <br>
 <br>
@@ -14,4 +15,6 @@ Follow me on the socials
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=derroh&layout=compact&theme=tokyonight)](https://github.com/derroh/github-readme-stats)
 <br>
+<br>
+## 🖥⚡ My streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=derroh&theme=tokyonight" alt="mystreak"/>
