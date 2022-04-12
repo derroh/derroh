@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Derrick!
 
 
-I have 5 years of experience working as a .NET developer and as a consultant for Microsoft Dynamics Business Central. 
+I have 7 years of experience working as a .NET developer and as a consultant for Microsoft Dynamics Business Central. 
 
 I occasionally create Youtube videos to showcase my skills and inspire someone and teach someone something new. 
 
