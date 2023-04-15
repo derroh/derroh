@@ -13,12 +13,5 @@ Follow me on the socials
 <a href="https://www.facebook.com/itsabucheri" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://open.spotify.com/playlist/79hqozkjc74vkw2R0BL84y" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 <a href="https://www.youtube.com/channel/UCjCme_sMoekaolOlNNvNilg" target="_blank"><img src="https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=flat-square&logo=Youtube&logoColor=white" alt="Youtube"></a>
-
-## 🖥⌨ My stats
-<p>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=derroh&layout=compact&theme=dark" width="350" height="150"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=derroh&show_icons=true&count_private=true&theme=dark" width="350" height="150"></a>
-</p>
-
 ## 🖥⚡ My streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=derroh&theme=tokyonight" alt="mystreak"/>
