@@ -2,7 +2,7 @@
 
 ### Summary
 
-🔹 **Software Design Engineer** with over 6 years of experience in designing, developing, and maintaining enterprise-level software applications. Proficient in **C#, ASP.NET Core, .NET 8, Entity Framework Core**, and **Azure services**, with a strong focus on delivering scalable and high-performance solutions.
+🔹 **Software Design Engineer** with over 7 years of experience in designing, developing, and maintaining enterprise-level software applications. Proficient in **C#, ASP.NET Core, .NET 10, Entity Framework Core**, and **Azure services**, with a strong focus on delivering scalable and high-performance solutions.
 
 🔹 Skilled in building **RESTful APIs**, implementing **CI/CD pipelines**, and deploying containerized applications using **Kubernetes**. Extensive experience in **Azure DevOps**, **Docker**, and **cloud-native development**. Adept at **database design** and writing complex **SQL queries** for **SQL Server**, **Azure SQL Database**, and **Cosmos DB**.
 
@@ -17,7 +17,7 @@
 - **Languages & Frameworks**:  
   ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%2305122.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-6/8-%23512BD4.svg?style=for-the-badge)
+  ![.NET](https://img.shields.io/badge/.NET-8/10-%23512BD4.svg?style=for-the-badge)
   ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-%231B1F23.svg?style=for-the-badge)
   ![Xamarin](https://img.shields.io/badge/Xamarin-%230C7FB4.svg?style=for-the-badge)
 
